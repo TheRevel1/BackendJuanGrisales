@@ -1,0 +1,52 @@
+[
+  {
+    "id": "04f5e6dd-a29c-4b9a-8442-41565fd2eb1a",
+    "status": true,
+    "title": "Elden Ring",
+    "description": "RPG de acción en mundo abierto",
+    "code": "ELDEN2022",
+    "price": 59.99,
+    "stock": 100,
+    "category": "rpg"
+  },
+  {
+    "id": "6d0e1fbd-eb96-435b-baa1-44194bee8b10",
+    "status": true,
+    "title": "Resident Evil 4 Remake",
+    "description": "Survival horror con gráficos renovados",
+    "code": "RE42023",
+    "price": 49.99,
+    "stock": 80,
+    "category": "horror"
+  },
+  {
+    "id": "ea7d604f-e01a-4005-b65c-80817c9cad41",
+    "status": true,
+    "title": "Dark Souls 3",
+    "description": "Acción intensa y dificultad desafiante",
+    "code": "DS32016",
+    "price": 39.99,
+    "stock": 60,
+    "category": "rpg"
+  },
+  {
+    "id": "a8612a00-bc71-4157-a51f-4f2215d98ee8",
+    "status": true,
+    "title": "Forza Horizon 5",
+    "description": "Simulación de carreras en mundo abierto",
+    "code": "FORZA5",
+    "price": 69.99,
+    "stock": 70,
+    "category": "carreras"
+  },
+  {
+    "id": "198e49c1-f60e-4fe3-ad5a-f1d0d62d0577",
+    "status": true,
+    "title": "Call of Duty: Modern Warfare II",
+    "description": "Shooter militar de acción",
+    "code": "CODMW2",
+    "price": 79.99,
+    "stock": 90,
+    "category": "fps"
+  }
+]
